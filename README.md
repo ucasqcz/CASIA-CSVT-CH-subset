@@ -1,2 +1,3 @@
-# scz_datasets
-init the dataset
+# CSVT-CH-subset
+Two zips
+
